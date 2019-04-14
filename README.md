@@ -1,1 +1,1 @@
-# trajectory-python
+# Creation d'un paquet Debian 
